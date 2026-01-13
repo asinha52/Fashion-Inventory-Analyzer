@@ -1,6 +1,3 @@
-
-
-
 prices = [120, 45, 250, 80, 300, 60, 150]
 
 for i in range(len(prices)):
@@ -10,3 +7,4 @@ for i in range(len(prices)):
         print("Premium item:", old_price, "->", prices[i])
 
 print("Final prices:", prices)
+
